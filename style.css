@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 1200px;
+    height: 600px;
+    margin: 5% 15%;
+    padding: 30px;
+    background-image: linear-gradient(to left top,  rgb(148, 8, 184), rgb(248, 43, 180));
+}
+.forma {
+    width: 960px;
+    height: 475px;
+    margin: 5% 11%;
+    background-image: linear-gradient(to right, rgb(221, 64, 64), rgb(65, 65, 235));
+}
+form {
+    width: 500px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 24%;
+    padding-top: 45px;
+    line-height: 45px;
+    text-align: center;
+    background-color: rgb(41, 38, 38) !important;
+}
+h1 {
+    color: white;
+}
+h4, label, input, a{
+    color: gray;
+}
+label input {
+    display: inline-block;
+}
+input {
+    margin-left: 10px;
+    padding: 5px;
+    border-radius: 18px;
+    border: 1px solid rgb(57, 107, 216);
+    text-align: center;
+    background-color: rgb(41, 38, 38);
+}
+a {
+    display: block;
+}
+button { 
+    width: 100px;
+    padding: 14px;
+    border: 2px solid green;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(41, 38, 38);
+}
+.fa {
+    width: 50px;
+    height: 50px;
+    color: white;
+}
